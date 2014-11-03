@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A Ghost Story</string>
+    <string name="hello_world">What it what it do?</string>
+    <string name="action_settings">Settings</string>
+	<string name="what_it_be">What it be like?</string>
+	<string name="Play">Play</string>
+</resources>
